@@ -40,7 +40,7 @@ Compite contra la máquina en este clásico juego de tres en línea.
 
 3. Ejecuta el juego:
     ```bash
-    python minesweeper.py
+    python buscaminas.py
     ```
 
 ## Contribuir
