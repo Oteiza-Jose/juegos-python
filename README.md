@@ -6,14 +6,14 @@
 
 ### 1. Buscaminas
 
-![Buscaminas](juego-buscaminas/images/mine.png)
+<img src="juego-buscaminas/images/mine.png" alt="Buscaminas" width="150" height="200">
 
 **Descripción:** 
 Desafía tus habilidades estratégicas y trata de no explotar una mina.
 
 ### 2. Cruz y Círculo
 
-![Cruz y Círculo](juego-cruz-y-circulo/images/tic_tac_toe.png)
+<img src="juego-tic-tac-toe/images/circuloycruz.png" alt="Cruz y Círculo" width="200" height="200">
 
 **Descripción:** 
 Compite contra la máquina en este clásico juego de tres en línea.
